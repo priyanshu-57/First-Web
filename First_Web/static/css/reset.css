@@ -1,0 +1,7 @@
+/* reset.css for reseting given content by yours */
+*{
+    margin: 0;
+    padding: 0;
+    /* The CSS padding properties are used to generate space around an element's content, inside of any defined borders. */
+}
+/* "*" means from root of web content page*/
